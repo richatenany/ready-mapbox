@@ -1,0 +1,60 @@
+/* .background {
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 1700px 1200px;
+    background-color: black;
+} */
+
+.body {
+    width: 100vw;
+    height: 100vh;
+    
+}
+.inside {
+    width: 1000px;
+    height: 160px;
+    background-color: #2F4050;
+    margin: auto;
+    border-radius: 10px;
+    opacity: .9;
+    position: relative;
+    top: 5%;
+}
+.label {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: auto;
+    margin-left: 35%;
+    margin-top: 8px;
+    position: absolute;
+}
+.bar {
+    height: 50px;
+    width: 70%;
+    padding: 10px;
+    color: black;
+    top: 25%;
+    margin-left: 4%;
+}
+.btn {
+    margin-top: -40px;
+    background-color: white;
+    margin-right: 80px;
+    color: #2F4050;
+    font-weight: bold;
+    display: inline;
+    float: right;
+    border-radius: 4px;
+    border: none;
+    width: 120px;
+    height: 30px;
+    margin-top: 25px;
+}
+.tabs {
+    background-color: transparent;
+    padding-top: 20px;
+    padding-left: 5px;
+    color: #2F4050;
+}
